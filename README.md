@@ -1,2 +1,7 @@
 # Blog-de-curso
-Un blog para el curso de Git y Github
+Este es un proyecto de prueba para el curso de git y github de Platzi.
+
+> Este es el inicio de una gran historia
+
+
+
